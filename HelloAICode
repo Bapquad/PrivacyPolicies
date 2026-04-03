@@ -1,1 +1,53 @@
-PRIVACY POLICY
+
+PRIVACY POLICY (CHÍNH SÁCH QUYỀN RIÊNG TƯ)
+Ứng dụng: [Hello Java AI]
+Phiên bản: 1.0
+Ngày cập nhật cuối cùng: [01/04/2026]
+
+1. Giới thiệu
+Chào mừng bạn đến với ứng dụng của chúng tôi. Chúng tôi cam kết bảo vệ quyền riêng tư và dữ liệu cá nhân của người dùng. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin của bạn khi bạn sử dụng ứng dụng.
+
+2. Thu thập dữ liệu
+Ứng dụng của chúng tôi được thiết kế theo triết lý tối giản và bảo mật:
+
+Dữ liệu cá nhân: Chúng tôi KHÔNG thu thập các thông tin định danh cá nhân như tên, địa chỉ, số điện thoại hay danh bạ của bạn.
+
+Dữ liệu kỹ thuật: Chúng tôi có thể thu thập các thông tin kỹ thuật ẩn danh (như loại thiết bị, phiên bản hệ điều hành) để tối ưu hóa hiệu suất và sửa lỗi hệ thống (Crash reports).
+
+Dữ liệu AI: Các yêu cầu (Prompts) bạn gửi qua giao diện AI được xử lý để đưa ra phản hồi. Chúng tôi không lưu trữ các cuộc hội thoại này trên máy chủ riêng của chúng tôi trừ khi được bạn cho phép rõ ràng.
+
+3. Quyền hạn ứng dụng (Permissions)
+Ứng dụng có thể yêu cầu một số quyền cơ bản trên Android để hoạt động:
+
+Internet: Để kết nối với máy chủ AI và cập nhật dữ liệu.
+
+Bộ nhớ (Storage): Chỉ khi bạn cần lưu trữ kết quả hoặc dữ liệu Multimedia từ ứng dụng vào máy.
+
+4. Tuân thủ EU AI Act & GDPR
+Chúng tôi tuân thủ nghiêm ngặt các quy định về trí tuệ nhân tạo của Liên minh Châu Âu:
+
+Tính minh bạch: Người dùng luôn được thông báo khi tương tác với hệ thống AI.
+
+Quyền kiểm soát: Bạn có toàn quyền xóa dữ liệu ứng dụng trên thiết bị của mình bất kỳ lúc nào.
+
+Bảo mật: Dữ liệu được truyền tải qua các giao thức mã hóa an toàn (HTTPS/SSL).
+
+5. Chia sẻ dữ liệu với bên thứ ba
+Chúng tôi không bán, trao đổi hoặc chuyển giao dữ liệu của bạn cho bên thứ ba. Các dịch vụ hỗ trợ (như Google Analytics cho Firebase) có thể thu thập dữ liệu ẩn danh theo chính sách riêng của Google.
+
+6. Thay đổi chính sách
+Chúng tôi có thể cập nhật chính sách này theo thời gian để phù hợp với các thay đổi về công nghệ hoặc luật pháp. Mọi thay đổi sẽ được thông báo ngay trong ứng dụng.
+
+7. Liên hệ
+Nếu bạn có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ với chúng tôi qua:
+
+Email: [Địa chỉ email của bạn]
+
+Website: [Link website của bạn nếu có]
+
+Một số lưu ý quan trọng để "Dây chuyền" vận hành trơn tru:
+Vị trí đặt link: Google yêu cầu link này phải truy cập được công khai (Public). Nếu bạn không có website, hãy dùng Google Sites (miễn phí) hoặc tạo một Gist trên GitHub.
+
+Đồng bộ: Nội dung trong bản chính sách này phải khớp 100% với những gì bạn khai báo trong mục Data Safety trên Google Play Console. Nếu khai báo lệch (ví dụ: trong chính sách bảo không thu thập vị trí nhưng trong Console lại bảo có), App sẽ bị từ chối duyệt (Rejected).
+
+Tư duy Hệ thống: Với một dự án lớn sau này, bạn nên có một mục riêng về "AI Transparency" (Minh bạch AI) để giải thích rõ AI của bạn có thu thập dữ liệu để huấn luyện lại (Retrain) hay không. Với app hiện tại, mẫu trên là đủ an toàn.
